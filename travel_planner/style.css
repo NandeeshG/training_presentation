@@ -1,0 +1,30 @@
+body { 
+    background-color: grey;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60px;
+    color: black;
+    border: 5px solid white;
+    margin:10px;
+}
+
+.click_button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#container1{
+    margin: auto !important;
+    height: 700px !important; 
+    width: 100% !important; 
+}
+
+
